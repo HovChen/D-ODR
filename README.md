@@ -88,14 +88,3 @@ Our project is developed based on the following repositories and foundational mo
 - [RETFound](https://github.com/rmaphoh/RETFound)
 - [GDRBench](https://github.com/chehx/DGDR/blob/main/GDRBench/README.md)
 
-## 🖊️ Citation
-
-If you find D-ODR useful in your research, please consider citing our paper:
-
-```
-@inproceedings{chen2026dodr,
-  title={Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading},
-  author={Chen, Huangwei and Jia, Junhao and Li, Ruocheng and Yang, Cunyuan and Pang, Xiaotao and Wang, Haishuai and Bu, Jiajun and Wu, Lei},
-  year={2026}
-}
-```
