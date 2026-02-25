@@ -17,7 +17,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/HovChen/D-ODR.git](https://github.com/HovChen/D-ODR.git)
+   git clone https://github.com/HovChen/D-ODR.git
    cd D-ODR
    ```
 
